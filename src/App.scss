@@ -3,6 +3,10 @@
 .App {
   padding: 10px;
 
+  .user-sample-text {
+    word-break: break-word;
+  }
+
   .table {
     table-layout: fixed;
 
